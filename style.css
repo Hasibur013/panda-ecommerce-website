@@ -1,0 +1,16 @@
+.bg-slider-color{
+    background-color: #FEEAE9
+    ;
+}
+.bg-gradient{
+    color: #FF136F;
+}
+.button{
+    border: none;
+    color: #fff;
+    padding: 8px 30px;
+    background-image: linear-gradient(#FF589B
+    , #FF136F
+    );
+    border-radius: 6px;
+}
